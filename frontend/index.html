@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Lead Scout — Smart Lead Scoring</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <span class="dot"></span>
+      <h1>Lead Scout</h1>
+    </div>
+    <p class="tagline">Clean, dedupe, and rank leads by ICP fit — built for the Caprae lead-gen challenge</p>
+  </header>
+
+  <main>
+    <section class="stats-row" id="statsRow"></section>
+
+    <section class="controls">
+      <label class="upload-btn">
+        Upload CSV
+        <input type="file" id="csvInput" accept=".csv" hidden />
+      </label>
+
+      <select id="industryFilter">
+        <option value="">All industries</option>
+      </select>
+
+      <div class="score-filter">
+        <label for="minScore">Min score: <span id="minScoreLabel">0</span></label>
+        <input type="range" id="minScore" min="0" max="100" value="0" />
+      </div>
+
+      <button id="exportBtn">Export CSV</button>
+    </section>
+
+    <section class="table-wrap">
+      <table id="leadsTable">
+        <thead>
+          <tr>
+            <th>Score</th>
+            <th>Company</th>
+            <th>Contact</th>
+            <th>Industry</th>
+            <th>Employees</th>
+            <th>Revenue</th>
+            <th>Location</th>
+          </tr>
+        </thead>
+        <tbody id="leadsBody"></tbody>
+      </table>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

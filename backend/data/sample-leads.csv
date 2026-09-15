@@ -1,0 +1,21 @@
+name,email,company,domain,industry,employee_count,revenue,location
+Sarah Klein,sarah@brightpathsaas.com,BrightPath SaaS,BrightPathSaaS.com,SaaS,45,8000000,Austin TX
+sarah klein,sarah@brightpathsaas.com,BrightPath SaaS Inc,www.brightpathsaas.com,SaaS,45,8000000,Austin TX
+Marcus Uy,m.uy@harvestfieldagtech.io,HarvestField AgTech,harvestfieldagtech.io,Food-AgTech,120,15000000,Fresno CA
+Dana Whitfield,dana.w@sentrycyber.co,Sentry Cyber,sentrycyber.co,Cybersecurity,60,12000000,Reston VA
+Leo Park,leo@parkbistrogroup.com,Park Bistro Group,parkbistrogroup.com,Restaurant,12,2000000,Chicago IL
+Priya Nair,priya@vitalcarehealth.com,VitalCare Health,vitalcarehealth.com,Healthcare,200,22000000,Denver CO
+priya nair,priya@vitalcarehealth.com,VitalCare Health Systems,VitalCareHealth.com,Healthcare,200,22000000,Denver CO
+Tom Reyes,notanemail,Reyes Logistics,,Logistics,30,,Miami FL
+Grace Odom,grace@biosynthq.com,BioSynth HQ,biosynthq.com,Biotech,75,18000000,Cambridge MA
+Ken Ishikawa,ken@northstarfintech.com,NorthStar FinTech,northstarfintech.com,FinTech,90,20000000,New York NY
+Amir Farouk,amir@bigboxretailcorp.com,BigBox Retail Corp,bigboxretailcorp.com,Retail,4000,900000000,Dallas TX
+Nora Lindqvist,nora@microstartupxyz.com,MicroStartup XYZ,microstartupxyz.com,SaaS,3,150000,Seattle WA
+David Cho,david@cloudledgeranalytics.com,CloudLedger Analytics,cloudledgeranalytics.com,SaaS,55,9500000,San Jose CA
+david cho,david@cloudledgeranalytics.com,CloudLedger Analytics LLC,CloudLedgerAnalytics.com,SaaS,55,9500000,San Jose CA
+Wanjiru Kamau,wanjiru@greenrootsagtech.com,GreenRoots AgTech,greenrootsagtech.com,Food-AgTech,80,11000000,Sacramento CA
+Ethan Brooks,,Unknown Ventures,unknownventures.com,Consumer,,,
+Isabella Conti,isabella@shieldpointcyber.com,ShieldPoint Cyber,shieldpointcyber.com,Cybersecurity,40,7000000,Boston MA
+Ray Delgado,ray@bulkfreightpartners.com,Bulk Freight Partners,bulkfreightpartners.com,Logistics,150,30000000,Houston TX
+Helen Okafor,helen@thrivewellhealthcare.com,ThriveWell Healthcare,thrivewellhealthcare.com,Healthcare,65,10500000,Atlanta GA
+Chris Malone,chris@pixelforgestudio.com,PixelForge Studio,pixelforgestudio.com,Consumer,20,3200000,Portland OR

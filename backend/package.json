@@ -1,0 +1,18 @@
+{
+  "name": "lead-scout-backend",
+  "version": "1.0.0",
+  "description": "Lead scoring, cleaning, and deduplication API for the Caprae lead-gen challenge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node init && node server.js",
+    "dev": "node init && nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "multer": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
